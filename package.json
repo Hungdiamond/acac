@@ -1,0 +1,47 @@
+{
+    "tên": "Hùng-Diamond",
+    "phiên bản": "1.2.14",
+    "description": "Một Bot Facebook Messenger đơn giản do tôi (HungDiamon).",
+    "main": "mirai.js",
+    "script": {
+        "start": "chỉ mục nút",
+        "login": "đăng nhập nút",
+        "test": "node --trace-warning --use_strict --async-stack-trace mirai"
+    },
+    "kho": {
+        "type": "git",
+        "url": "git + https: //github.com/D-Jukie/miraiv2.git"
+    },
+    "tác giả": "D-Jukie",
+    "giấy phép": "GPL-3.0",
+    "phụ thuộc": {
+        "simple-youtube-api": "",
+        "@ miraipr0ject / asset": "",
+        "helyt": "",
+        "axios": "",
+        "body-parser": "",
+        "caesar-salad": "",
+        "Tranh sơn dầu": "",
+        "phấn": "^ 4.1.2",
+        "cheerio": "",
+        "child_process": "",
+        "tiền điện tử": "",
+        "eval": "",
+        "extract-zip": "",
+        "figlet": "",
+        "fs-extra": "",
+        "jimp": "",
+        "người theo chủ nghĩa tối thiểu": "",
+        "múi giờ": "",
+        "bệnh đa xơ cứng": "",
+        "npmlog": "",
+        "đường dẫn": "",
+        "readline": "",
+        "lời yêu cầu": "",
+        "semver": "",
+        "phần tiếp theo": "",
+        "sqlite3": "",
+        "string-tương tự": "",
+        "totp-máy phát điện": ""
+    }
+}
